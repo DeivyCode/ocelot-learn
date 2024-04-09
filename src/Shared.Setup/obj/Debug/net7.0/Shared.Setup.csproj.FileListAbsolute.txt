@@ -1,0 +1,12 @@
+/home/deivy/Projects/ocelot_test/src/Shared.Setup/bin/Debug/net7.0/Shared.Setup.deps.json
+/home/deivy/Projects/ocelot_test/src/Shared.Setup/bin/Debug/net7.0/Shared.Setup.dll
+/home/deivy/Projects/ocelot_test/src/Shared.Setup/bin/Debug/net7.0/Shared.Setup.pdb
+/home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.csproj.AssemblyReference.cache
+/home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.AssemblyInfoInputs.cache
+/home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.AssemblyInfo.cs
+/home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.csproj.CoreCompileInputs.cache
+/home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.dll
+/home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/Debug/net7.0/refint/Shared.Setup.dll
+/home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.pdb
+/home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/Debug/net7.0/ref/Shared.Setup.dll

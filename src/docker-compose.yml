@@ -1,0 +1,18 @@
+version: "3"
+services:
+  user-service:
+    image: user-service
+    build:
+      context: .
+      dockerfile: UserService/Dockerfile
+    ports:
+      - "8081:80"
+  api-gateway:
+    image: api-gateway
+    build:
+      context: .
+      dockerfile: PublicApi/Dockerfile
+    ports:
+      - "8080:80"
+    depends_on:
+      - user-service
