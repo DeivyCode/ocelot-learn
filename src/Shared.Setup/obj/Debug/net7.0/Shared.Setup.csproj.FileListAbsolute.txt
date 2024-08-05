@@ -10,3 +10,16 @@
 /home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/Debug/net7.0/refint/Shared.Setup.dll
 /home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.pdb
 /home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/Debug/net7.0/ref/Shared.Setup.dll
+/Users/davidgarcia/Projects/ocelot-learn/src/Shared.Setup/bin/Debug/net7.0/Shared.Setup.deps.json
+/Users/davidgarcia/Projects/ocelot-learn/src/Shared.Setup/bin/Debug/net7.0/Shared.Setup.dll
+/Users/davidgarcia/Projects/ocelot-learn/src/Shared.Setup/bin/Debug/net7.0/Shared.Setup.pdb
+/Users/davidgarcia/Projects/ocelot-learn/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.csproj.AssemblyReference.cache
+/Users/davidgarcia/Projects/ocelot-learn/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidgarcia/Projects/ocelot-learn/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.AssemblyInfoInputs.cache
+/Users/davidgarcia/Projects/ocelot-learn/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.AssemblyInfo.cs
+/Users/davidgarcia/Projects/ocelot-learn/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.csproj.CoreCompileInputs.cache
+/Users/davidgarcia/Projects/ocelot-learn/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.sourcelink.json
+/Users/davidgarcia/Projects/ocelot-learn/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.dll
+/Users/davidgarcia/Projects/ocelot-learn/src/Shared.Setup/obj/Debug/net7.0/refint/Shared.Setup.dll
+/Users/davidgarcia/Projects/ocelot-learn/src/Shared.Setup/obj/Debug/net7.0/Shared.Setup.pdb
+/Users/davidgarcia/Projects/ocelot-learn/src/Shared.Setup/obj/Debug/net7.0/ref/Shared.Setup.dll

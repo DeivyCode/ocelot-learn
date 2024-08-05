@@ -19,7 +19,9 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\JwtAuth\JwtAuth.csproj" />
       <ProjectReference Include="..\Shared.Setup\Shared.Setup.csproj" />
+      <ProjectReference Include="..\UserServices.Dtos\UserServices.Dtos.csproj" />
     </ItemGroup>
 
 

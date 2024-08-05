@@ -1,3 +1,5 @@
+using Auth.Jwt.Extension;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace UserService.Controllers;
@@ -6,7 +8,7 @@ namespace UserService.Controllers;
 [Route("api/user/[controller]")]
 public class RegisterController : ControllerBase
 {
-    [HttpGet]
+    [HttpGet, Authorize(Roles = "Admin"), RequireScope("user.read")]
     public IActionResult Get()
     {
         var response = new TestResponse(Guid.NewGuid(), HttpContext.TraceIdentifier);

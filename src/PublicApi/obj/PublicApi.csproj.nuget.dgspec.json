@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/deivy/Projects/ocelot_test/src/PublicApi/PublicApi.csproj": {}
+    "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/PublicApi/PublicApi.csproj": {}
   },
   "projects": {
-    "/home/deivy/Projects/ocelot_test/src/PublicApi/PublicApi.csproj": {
+    "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/PublicApi/PublicApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/deivy/Projects/ocelot_test/src/PublicApi/PublicApi.csproj",
+        "projectUniqueName": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/PublicApi/PublicApi.csproj",
         "projectName": "PublicApi",
-        "projectPath": "/home/deivy/Projects/ocelot_test/src/PublicApi/PublicApi.csproj",
-        "packagesPath": "/home/deivy/.nuget/packages/",
-        "outputPath": "/home/deivy/Projects/ocelot_test/src/PublicApi/obj/",
+        "projectPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/PublicApi/PublicApi.csproj",
+        "packagesPath": "/Users/davidgarcia/.nuget/packages/",
+        "outputPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/PublicApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/deivy/.nuget/NuGet/NuGet.Config"
+          "/Users/davidgarcia/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/deivy/Projects/ocelot_test/src/Shared.Setup/Shared.Setup.csproj": {
-                "projectPath": "/home/deivy/Projects/ocelot_test/src/Shared.Setup/Shared.Setup.csproj"
+              "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/Shared.Setup/Shared.Setup.csproj": {
+                "projectPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/Shared.Setup/Shared.Setup.csproj"
               }
             }
           }
@@ -66,6 +66,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -74,21 +88,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.117/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/deivy/Projects/ocelot_test/src/Shared.Setup/Shared.Setup.csproj": {
+    "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/Shared.Setup/Shared.Setup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/deivy/Projects/ocelot_test/src/Shared.Setup/Shared.Setup.csproj",
+        "projectUniqueName": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/Shared.Setup/Shared.Setup.csproj",
         "projectName": "Shared.Setup",
-        "projectPath": "/home/deivy/Projects/ocelot_test/src/Shared.Setup/Shared.Setup.csproj",
-        "packagesPath": "/home/deivy/.nuget/packages/",
-        "outputPath": "/home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/",
+        "projectPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/Shared.Setup/Shared.Setup.csproj",
+        "packagesPath": "/Users/davidgarcia/.nuget/packages/",
+        "outputPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/Shared.Setup/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/deivy/.nuget/NuGet/NuGet.Config"
+          "/Users/davidgarcia/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -152,6 +166,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -160,7 +184,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.117/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }

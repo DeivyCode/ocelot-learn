@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vMQIMdAoYDvQqQjbOA2z7GiLsYoIwsj71CeueQRhyixnYaAw8+q/4+ihUgF1SEUFu59/I3smMPJpe05zSP0R1Q==",
+  "success": true,
+  "projectFilePath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserServices.Dtos/UserServices.Dtos.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidgarcia/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/davidgarcia/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

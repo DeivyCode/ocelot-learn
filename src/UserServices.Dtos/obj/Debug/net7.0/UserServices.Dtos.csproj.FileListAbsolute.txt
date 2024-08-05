@@ -1,0 +1,12 @@
+/Users/davidgarcia/Projects/ocelot-learn/src/UserServices.Dtos/bin/Debug/net7.0/UserServices.Dtos.deps.json
+/Users/davidgarcia/Projects/ocelot-learn/src/UserServices.Dtos/bin/Debug/net7.0/UserServices.Dtos.dll
+/Users/davidgarcia/Projects/ocelot-learn/src/UserServices.Dtos/bin/Debug/net7.0/UserServices.Dtos.pdb
+/Users/davidgarcia/Projects/ocelot-learn/src/UserServices.Dtos/obj/Debug/net7.0/UserServices.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidgarcia/Projects/ocelot-learn/src/UserServices.Dtos/obj/Debug/net7.0/UserServices.Dtos.AssemblyInfoInputs.cache
+/Users/davidgarcia/Projects/ocelot-learn/src/UserServices.Dtos/obj/Debug/net7.0/UserServices.Dtos.AssemblyInfo.cs
+/Users/davidgarcia/Projects/ocelot-learn/src/UserServices.Dtos/obj/Debug/net7.0/UserServices.Dtos.csproj.CoreCompileInputs.cache
+/Users/davidgarcia/Projects/ocelot-learn/src/UserServices.Dtos/obj/Debug/net7.0/UserServices.Dtos.sourcelink.json
+/Users/davidgarcia/Projects/ocelot-learn/src/UserServices.Dtos/obj/Debug/net7.0/UserServices.Dtos.dll
+/Users/davidgarcia/Projects/ocelot-learn/src/UserServices.Dtos/obj/Debug/net7.0/refint/UserServices.Dtos.dll
+/Users/davidgarcia/Projects/ocelot-learn/src/UserServices.Dtos/obj/Debug/net7.0/UserServices.Dtos.pdb
+/Users/davidgarcia/Projects/ocelot-learn/src/UserServices.Dtos/obj/Debug/net7.0/ref/UserServices.Dtos.dll

@@ -1,20 +1,104 @@
 {
   "format": 1,
   "restore": {
-    "/home/deivy/Projects/ocelot_test/src/UserService/UserService.csproj": {}
+    "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserService/UserService.csproj": {}
   },
   "projects": {
-    "/home/deivy/Projects/ocelot_test/src/Shared.Setup/Shared.Setup.csproj": {
+    "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/JwtAuth/JwtAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/deivy/Projects/ocelot_test/src/Shared.Setup/Shared.Setup.csproj",
-        "projectName": "Shared.Setup",
-        "projectPath": "/home/deivy/Projects/ocelot_test/src/Shared.Setup/Shared.Setup.csproj",
-        "packagesPath": "/home/deivy/.nuget/packages/",
-        "outputPath": "/home/deivy/Projects/ocelot_test/src/Shared.Setup/obj/",
+        "projectUniqueName": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/JwtAuth/JwtAuth.csproj",
+        "projectName": "JwtAuth",
+        "projectPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/JwtAuth/JwtAuth.csproj",
+        "packagesPath": "/Users/davidgarcia/.nuget/packages/",
+        "outputPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/JwtAuth/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/deivy/.nuget/NuGet/NuGet.Config"
+          "/Users/davidgarcia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserServices.Dtos/UserServices.Dtos.csproj": {
+                "projectPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserServices.Dtos/UserServices.Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/Shared.Setup/Shared.Setup.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/Shared.Setup/Shared.Setup.csproj",
+        "projectName": "Shared.Setup",
+        "projectPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/Shared.Setup/Shared.Setup.csproj",
+        "packagesPath": "/Users/davidgarcia/.nuget/packages/",
+        "outputPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/Shared.Setup/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davidgarcia/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -78,6 +162,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -86,21 +180,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.117/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/deivy/Projects/ocelot_test/src/UserService/UserService.csproj": {
+    "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserService/UserService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/deivy/Projects/ocelot_test/src/UserService/UserService.csproj",
+        "projectUniqueName": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserService/UserService.csproj",
         "projectName": "UserService",
-        "projectPath": "/home/deivy/Projects/ocelot_test/src/UserService/UserService.csproj",
-        "packagesPath": "/home/deivy/.nuget/packages/",
-        "outputPath": "/home/deivy/Projects/ocelot_test/src/UserService/obj/",
+        "projectPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserService/UserService.csproj",
+        "packagesPath": "/Users/davidgarcia/.nuget/packages/",
+        "outputPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/deivy/.nuget/NuGet/NuGet.Config"
+          "/Users/davidgarcia/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -112,8 +206,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/deivy/Projects/ocelot_test/src/Shared.Setup/Shared.Setup.csproj": {
-                "projectPath": "/home/deivy/Projects/ocelot_test/src/Shared.Setup/Shared.Setup.csproj"
+              "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/JwtAuth/JwtAuth.csproj": {
+                "projectPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/JwtAuth/JwtAuth.csproj"
+              },
+              "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/Shared.Setup/Shared.Setup.csproj": {
+                "projectPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/Shared.Setup/Shared.Setup.csproj"
+              },
+              "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserServices.Dtos/UserServices.Dtos.csproj": {
+                "projectPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserServices.Dtos/UserServices.Dtos.csproj"
               }
             }
           }
@@ -148,6 +248,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -156,7 +270,70 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.117/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserServices.Dtos/UserServices.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserServices.Dtos/UserServices.Dtos.csproj",
+        "projectName": "UserServices.Dtos",
+        "projectPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserServices.Dtos/UserServices.Dtos.csproj",
+        "packagesPath": "/Users/davidgarcia/.nuget/packages/",
+        "outputPath": "/Users/davidgarcia/Developer/Projects/ocelot-learn/src/UserServices.Dtos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davidgarcia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }

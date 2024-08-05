@@ -1,7 +1,5 @@
 using System;
-using HealthChecks.UI.Client;
 using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -19,9 +17,8 @@ public static class DefaultWebApi
         // builder.Services.AddHealthChecksUI().AddInMemoryStorage();
         builder.Services.AddControllers();
         builder.Services.AddEndpointsApiExplorer();
-        builder.Services.AddSwaggerGen();
         builder.Services.AddRouting(x => x.LowercaseUrls = true);
-        
+
         if (webappBuilder != null)
         {
             webappBuilder.Invoke(builder);

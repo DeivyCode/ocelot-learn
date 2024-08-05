@@ -1,0 +1,16 @@
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/obj/Debug/net7.0/JwtAuth.csproj.AssemblyReference.cache
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/obj/Debug/net7.0/JwtAuth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/obj/Debug/net7.0/JwtAuth.AssemblyInfoInputs.cache
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/obj/Debug/net7.0/JwtAuth.AssemblyInfo.cs
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/obj/Debug/net7.0/JwtAuth.csproj.CoreCompileInputs.cache
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/obj/Debug/net7.0/JwtAuth.sourcelink.json
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/bin/Debug/net7.0/JwtAuth.deps.json
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/bin/Debug/net7.0/JwtAuth.dll
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/bin/Debug/net7.0/JwtAuth.pdb
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/obj/Debug/net7.0/JwtAuth.dll
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/obj/Debug/net7.0/refint/JwtAuth.dll
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/obj/Debug/net7.0/JwtAuth.pdb
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/obj/Debug/net7.0/ref/JwtAuth.dll
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/bin/Debug/net7.0/UserServices.Dtos.dll
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/bin/Debug/net7.0/UserServices.Dtos.pdb
+/Users/davidgarcia/Projects/ocelot-learn/src/JwtAuth/obj/Debug/net7.0/JwtAuth.csproj.Up2Date
